@@ -135,9 +135,6 @@ text diagrams. The configured PlantUML command needs to forward
 command-line arguments for that option, so a wrapper script, as
 mentioned above in the Usage section, with ``"$@"`` must be used.
 
-The ``plantuml_output_format`` setting only controls HTML output and
-does not affect the text builder.
-
 Developing
 ----------
 
